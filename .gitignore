@@ -1,0 +1,31 @@
+venv
+.venv
+External Libraries/
+Scratches and Consoles/
+.idea
+
+# PyCharm specific
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env*/
+.venv*/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files (optional)
+.DS_Store
