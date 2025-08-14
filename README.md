@@ -1,6 +1,6 @@
 
 <p align="center">
-	<a href="https://movie-recommender-system-5qf8.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo"></a>
+	<a href="https://movie-recommender-system-edfh.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo"></a>
 </p>
 
 ## 🎬 Movie Recommender System 🍿
@@ -30,6 +30,8 @@ This is a content-based Movie Recommender System built with Python and Streamlit
 	```bash
 	git clone https://github.com/anjalbhattarai79/movie-recommender-system.git
 	cd movie-recommender-system/pycharm
+	# If the remote URL has changed, update it:
+	git remote set-url origin https://github.com/anjalbhattarai79/movie-recommender-system.git
 	```
 2. 📦 Install dependencies:
 	```bash
